@@ -6,10 +6,8 @@
 	font: normal 15px 'Courgette', cursive;
 	line-height: 17px;
 	color:#444;
-	background: url('../img/mid.png') repeat-y;
 	display: block;
 	border: none;
-
 	min-height: 170px;
 	overflow: hidden;
 	resize: none;
