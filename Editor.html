@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en" ng-app="editorApp">
+<head>
+    <meta charset="utf-8">
+    <title>Editor de texto</title>
+    <meta name="description" content="Editor de texto multiplataforma">
+    <meta name="author" content="Jose Ramon Navarro Marquez">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" href="./assets/css/styles.css">
+    <!--Materialize-->
+    <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="bower_components/materialize/dist/css/materialize.min.css"  media="screen,projection"/>
+    <!--Scripts-->
+    <script src="bower_components/jquery/dist/jquery.js"></script>
+    <script src="bower_components/angular/angular.js"></script>
+    <script type="text/javascript" src="bower_components/materialize/dist/js/materialize.js"></script>
+    <script src="./assets/js/script.js"></script>
+</head>
+<body ng-controller="notasController">
+<div class="navbar-fixed">
+    <nav>
+        <div class="nav-wrapper">
+            <a href="#" class="brand-logo center">Notas</a>
+            <ul id="nav-mobile" class="right">
+                <li><a href="" ng-click="addNote()">Nueva</a></li>
+            </ul>
+        </div>
+    </nav>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col s12 m6" ng-repeat="nota in notas">
+            <div class="card">
+                <div class="card-content">
+                    <span class="card-title">{{nota.titulo}}</span>
+                    <textarea class="note">{{nota.contenido}}</textarea>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,21 @@
+{
+  "name": "editor",
+  "homepage": "https://github.com/DJoser/editor",
+  "authors": [
+    "Jose Ramon Navarro Marquez <ramonnavarropadilla@hotmail.com>"
+  ],
+  "description": "Editor Agile",
+  "main": "Editor.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "^0.97.8",
+    "angular": "^1.6.1"
+  }
+}

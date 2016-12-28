@@ -1,0 +1,12 @@
+{
+  "notas" : [
+    {
+      "titulo": "Titulo de ejemplo",
+      "contenido": "Esta es la primera nota almacenada"
+    },
+    {
+      "titulo": "Nota 2",
+      "contenido": "Este es el contenido de la siguiente nota"
+    }
+  ]
+}
