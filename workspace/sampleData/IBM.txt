@@ -1,0 +1,20 @@
+[Dashboard Watson]
+# Descipcion:
+	- Generar un dashboard en whatson
+
+# Requerimentos:
+	- Unificar los registros de las dos bases de datos
+
+
+# Tareas:
+	- Generar Qry unificado para watson analitics
+	- Generar dashboard de ejemplo con los datos obtenidos
+	
+
+[QRYPROD Tammy]
+
+
+[Comunidad LSRB]
+
+
+[Manual COD video]

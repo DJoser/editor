@@ -1,0 +1,12 @@
+tareas hoy:
+
+
+
+
+
+
+
+
+
+Cargar modelo de blender en davinci
+agregar simulacion de fisica del robot

@@ -1,0 +1,42 @@
+Un editor de textos
+	- Abrir archivo
+	- Leer archivo
+	- Dibujar archivo en pantalla
+	- Editar contenido
+	- Guardar archivo
+
+
+
+Que se sincronice automaticamente entre varios dispositivos
+	- Un host central
+	- Protocolo de sincronizacion (git)
+	
+
+
+Con capacidades de organizacion
+	- agregar una clase manager
+
+
+Que se integre con el dispositivo
+
+
+
+Poder editar localemente sin conexion
+
+
+
+
+Requerimentos:
+	- Conexio a internet
+
+
+
+Alternativas,
+-Bluemix
+	
+-Github
+
+Lenguajes:
+python
+c++ 
+Java

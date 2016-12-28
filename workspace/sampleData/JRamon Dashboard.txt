@@ -1,0 +1,40 @@
+[Proyectos]
+
+# Escuela:
+	ENNI
+	IOT
+	Redes
+	Ceti-App
+	Ceti-Server
+
+# Personal:
+	FINISTERRA
+	Control Gastos
+	Bocho
+	Dashboard
+	Actuador Lineal
+	Collar Inalambrico
+	Control Pacientes
+
+# IBM:
+	Dashboard Watson
+	QRYPROD Tammy
+	Comunidad LSRB
+	Manual COD video
+
+# Pro:
+	Editor
+	Hawk
+	Opengl
+	JAS
+
+[Requerimentos]
+	- Descripcion
+	- Avance del proyecto
+	- Costos aproximados
+	- Costos reales
+	- Fecha de realizacion
+	- Avances 
+	- Tareas
+	- Fecha Limite
+	- Requerimentos
